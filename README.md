@@ -47,7 +47,7 @@ Complete Functional BDD test coverage of the project.and live documentation
 Functional and Regression test results and report for each project release.
 #### Release version 1.1
 * [Functional Test Results and Bug Report 1.1](/test_results/funcional_test_results_and_bug_release_1.1.pdf) 
-* [Regression Test Results 1.1](/test_results/regression_test_results_release.pdf)
+* [Regression Test Results 1.1](/test_results/regression_test_results_release_1.1.pdf)
 
 
 ## AUTHOR
