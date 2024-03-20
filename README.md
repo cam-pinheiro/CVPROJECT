@@ -12,7 +12,7 @@ This project is using JIRA tool for project management and defect traking follow
 
 ## DEMO VIDEO
 This project includes a Demo Video of each functionallity developed.
-* [DEMO VIDEOS](/demovideos/)
+* [DEMO VIDEOS](/demo-videos/)
 ## TEST STRATEGY
 This project adopts BDD Methodology for testing.
 
@@ -39,16 +39,19 @@ SonarQube Static Test Analisys Result.
 Complete Regression Test Plan of the project.
 
 ### TEST COVERAGE AND LIVE DOCUMENTATION
-[BDD Test Coverage](/test_plans/funcional_test_plan_and_bdd_and_coverge.pdf)
+[BDD Test Coverage](/test_plans/funcional_test_plan_and_bdd_coverage.pdf)
 Complete Functional BDD test coverage of the project.and live documentation
 
 
 ### TEST RESULTS
 Functional and Regression test results and report for each project release.
 #### Release version 1.1
-* [Functional Test Results and Bug Report 1.1](/test_results/funcional_test_results_and_bug_release_1.1.pdf) 
+* [Functional Test Results and Bug Report 1.1](/test_results/functional_test_results_and_bug_release_1.1.pdf) 
 * [Regression Test Results 1.1](/test_results/regression_test_results_release_1.1.pdf)
 
+#### Release version 1.
+* [Functional Test Results and Bug Report 1.1](/test_results/functional_test_results_and_bug_release_1.2.pdf) 
+* [Regression Test Results 1.1](/test_results/regression_test_results_release_1.2.pdf)
 
 ## AUTHOR
 Camila Pinheiro, QA Engineer
