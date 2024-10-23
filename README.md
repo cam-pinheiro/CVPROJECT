@@ -1,6 +1,6 @@
 # CV-PROJECT
 This is a cv website.
-[Camila CV Website](https://organization-camila-pinheiro.github.io/CVPROJECT/)
+[Camila CV Website](https://cam-pinheiro.github.io/CVPROJECT/)
 
 ## BUILD WITH
 * ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
